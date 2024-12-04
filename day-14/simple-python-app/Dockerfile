@@ -1,5 +1,5 @@
 # Base image
-FROM python3-3.9.16-1.amzn2023.0.9.x86_64
+FROM python:3.9.16
 
 # Set the working directory inside the container
 WORKDIR /app
