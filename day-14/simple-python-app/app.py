@@ -54,8 +54,8 @@ def hello():
                 <h1>Hello, World!</h1>
                 <p>This is a live update of the Flask app. It's now more visually attractive!</p>
                 <div class="footer">
-                    <p>Created this lab by MOHD SHUAIB with ❤️ using Flask</p>
-                    <p>❤️Thank you for visiting my website ❤️ </p>
+                    <p>Created by MOHD SHUAIB</p>
+                    <p>Thank you for visiting my website ❤️ </p>
                     <p>Visit <a href="https://www.palletsprojects.com/p/flask/" target="_blank">Flask Documentation</a> for more info.</p>
                 </div>
             </div>
